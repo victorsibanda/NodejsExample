@@ -1,3 +1,4 @@
+
 # InSpec test for recipe NodejsExample::default
 
 # The InSpec reference, with examples and extensive documentation, can be
